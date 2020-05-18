@@ -1,0 +1,9 @@
+How Statistics Problems Should Be Solved (Briggs-2008, pg. 168)
+===============================================================
+1. Quantify uncertainty in an observable using a probability distribution.
+2. The distribution will have unobservable parameters which you do not know but must be specified.
+3. Quantify your uncertainty in these parameters using probability distributions.
+4. Collect logical evidence and observable data, which provide updated information about the parameters which you still do not know and which still have to be quantified with probability distributions.
+5. Since you do not care about the parameters and you do care about future observables, quantify your uncertainty in these future observables by accounting for the uncertainty you still have in the parameters.
+6. Check to see if your model has skill, that is, that it can beat a "model" that just guesses.
+7. If your model does have skill, use it to make statements and conclusions about future observable data.
