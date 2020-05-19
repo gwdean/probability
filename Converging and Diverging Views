@@ -1,0 +1,11 @@
+Converging and Diverging Views (Adapted from Jaynes-2003, Ch.5)
+===============================================================
+* Two people (Alice & Bob) have differing views (due to their differing prior information) about some issue, say the truth or falsity of some controversial proposition S.
+
+* Present to both of them, a number of new pieces of information ('data'), D1, D2, .... Dn, some favorable to S, some unfavorable.
+
+* As n increases, the totality of their information comes to be more nearly the same, therefore we might expect that their opinions about S will converge toward a common agreement.
+
+[INSERT SOME STUFF]
+
+* Divergence of opinions is readily explained by probability theory as logic, and that it is expected when persons have widely different prior information.
