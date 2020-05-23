@@ -15,3 +15,18 @@ Notes on "Attacking Probabilty & Statistics Problems" (Kahn-2016)
 
 Total : Examples <- c(12 11 10 3 0 3 8 7 10 7 5 5)
         Problems <- c(10 10 10 4 0 0 10 14 15 10 10 12)
+
+Examples
+--------
+1.1 We roll a six-sided die. What is the probability that a multiple of 3 will occur?
+1.2 We toss a fair coin. What is the probability that we get heads?
+1.3 If we toss a fair coin twice, what is the probability that we get at least 1 tail?
+1.4 We roll a red die and a green die simultaneously. What is the probability that we roll a 7?
+1.5 If we toss 3 coins, what are all of the possible probabilities for getting heads?
+1.6 What is the probability of drawing 1 queen from an ordinary deck of cards?
+1.7 What is the probability of tossing a fair coin twice and getting heads both times?
+1.8 What is the probability of tossing a fair coin 6 times in a row and getting heads each time?
+1.9 What is the probability of drawing 2 queens in a row from a deck of playing cards?
+1.10 What is the probability of drawing 2 spades in a row (a) with replacement and (b) without replacement?
+1.11 If we toss a fair coin 4 times, what is the probability of getting at least 1 head?
+1.12 We toss a fair coin 10 times. What is the probability that we get at least 1 head?
