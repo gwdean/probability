@@ -1,0 +1,17 @@
+Notes on "Attacking Probabilty & Statistics Problems" (Kahn-2016)
+=================================================================
+1. Basic Probability (12 Examples, 10 Practice Problems)
+2. Permutations & Combinations (11 10)
+3. More Probability (10 10)
+4. Conditional Probability (3 4)
+5. Statistics Terms and Experimental Design (0 0)
+6. Some Basics of Statistics (3 0)
+7. Center and Spread (8 10)
+8. Exploring Data and Introducing the z Score (7 14)
+9. Probability Distributions and More About the z Test (10 15)
+10. Confidence Intervals (7 10)
+11. Hypothesis Testing (5 10)
+12. Working with Two Samples, Correlation, and Regression (5 12)
+
+Total : Examples <- c(12 11 10 3 0 3 8 7 10 7 5 5)
+        Problems <- c(10 10 10 4 0 0 10 14 15 10 10 12)
